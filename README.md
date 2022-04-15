@@ -3,6 +3,7 @@
 This project is used to import the reports from the [Vivid Money](https://vivid.money) into [Firefly III](https://github.com/firefly-iii/firefly-iii).
 
 Vivid money provides the reports as a PDF, which is why you have to convert them to a csv.
+***
 NOTE: categories and keywords are not in the report, so they can not be mapped into firefly iii
 
 Usage:
