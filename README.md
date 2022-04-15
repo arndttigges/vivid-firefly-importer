@@ -16,4 +16,4 @@ Usage:
 
 
 
-[^1] you might have to install tika via pip3
+[^1]: you might have to install tika via pip3
